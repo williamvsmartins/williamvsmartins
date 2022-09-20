@@ -11,7 +11,6 @@
 
 
  
- _Agora estou focando em aprender Bootstrap_ 📚
  
  _Tenho alguns projetos em Javascript, que você pode checar no meu repositório_ 📗
  
