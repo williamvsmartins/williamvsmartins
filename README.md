@@ -53,7 +53,7 @@
 <!-- GitHub Trophies -->
 <h3 align="center">🏆&nbsp;GitHub Trophies&nbsp;🏆</h3>
 
-<p align="center"><a href="https://github.com/WillProg"><img height="150em" src="https://github-profile-trophy.vercel.app/?username=WillProg&margin-w=8&margin-h=8&theme=dracula" alt="WillProg"/></a></p>
+<p align="center"><a href="https://github.com/WilliamVSMartins"><img height="150em" src="https://github-profile-trophy.vercel.app/?username=WillProg&margin-w=8&margin-h=8&theme=dracula" alt="WillProg"/></a></p>
 
 <hr>
 
@@ -72,7 +72,7 @@
 
 <hr>
 
-<a href="https://github.com/WillProg">
+<a href="https://github.com/WilliamVSMartins">
 
 <!-- Side -->
 ![Side](https://github.com/RonaldGuilhermePDS/RonaldGuilhermePDS/blob/master/.GitHub/Side.png?raw=true)
