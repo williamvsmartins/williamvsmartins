@@ -61,6 +61,7 @@
 <h3 align="center">🏆&nbsp;Contacts&nbsp;🏆</h3>
 
 <p align="center"><a href="https://linkedin.com/in/williamvalther/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" width="40" /></a>
 <a href="https://api.whatsapp.com/send/?phone=5598984532518&app_absent=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-whatsapp-social-media-justicon-flat-justicon.png" width="40" /></a>
 </p>
 
