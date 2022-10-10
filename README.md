@@ -43,7 +43,7 @@
  <img src="https://img.shields.io/badge/Amazon_Web_Services-05112A.svg?style=flat&logo=AMAZON-AWS" />&nbsp;
  <img src="https://img.shields.io/badge/Git-05112A?style=flat&logo=GIT" />&nbsp;
  <img src="https://img.shields.io/badge/GitHub-05112A?style=flat&logo=GITHUB" />&nbsp;
- <img src="https://img.shields.io/badge/GitLab-05112A?style=flat&logo=GITLAB" />&nbsp;;
+ <img src="https://img.shields.io/badge/GitLab-05112A?style=flat&logo=GITLAB" />&nbsp;
  <img src="https://img.shields.io/badge/Linux-05112A.svg?style=flat&logo=LINUX" />&nbsp;
  <img src="https://img.shields.io/badge/Raspberry_Pi-05112A?style=flat&logo=RASPBERRY-PI" />&nbsp;
 </div>
