@@ -53,7 +53,7 @@
 <!-- GitHub Trophies -->
 <h3 align="center">🏆&nbsp;GitHub Trophies&nbsp;🏆</h3>
 
-<p align="center"><a href="https://github.com/WilliamVSMartins"><img height="150em" src="https://github-profile-trophy.vercel.app/?username=WilliamVSMartins&margin-w=8&margin-h=8&theme=dracula" alt="WillProg"/></a></p>
+<p align="center"><a href="https://github.com/WilliamVSMartins"><img height="150em" src="https://github-profile-trophy.vercel.app/?username=WilliamVSMartins&margin-w=8&margin-h=8&theme=dracula" alt="WilliamVSMartins"/></a></p>
 
 <hr>
 
