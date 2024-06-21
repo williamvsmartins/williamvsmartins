@@ -11,8 +11,6 @@
 
 <hr>
 
-<hr>
-
 <!-- Overview Technologies -->
 <h3 align="center">🏆&nbsp;Overview Technologies&nbsp;🏆</h3>
 
